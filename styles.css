@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    margin-left: auto 0;
+}
+
+img {
+    max-width: 300px;
+}
+
+table{
+    text-align: left;
+    margin: auto;
+}
+
+td:first-child {
+    font-weight: bold;
+    background-color: burlywood;
+}
+td:nth-child(2) {
+padding-left: 20px;
+}

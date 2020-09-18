@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://Silver248.github.io/rsschool-cv/cv 

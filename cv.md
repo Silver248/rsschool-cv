@@ -1,7 +1,7 @@
 1. **Vyacheslav Manzhela**
 2. **E-mail:** wmanzhela@gmail.com, **Telegram:** Vyacheslav_js
 3. **Summary:** goal is to become competent front-end developer, improve Python skills, take part in some large-scale projects
-4. **Skills:** knowledge of Javascript, html, css, Photoshop, Figma; basic knowledge of Typescript
+4. **Skills:** knowledge of Javascript, html, css, Photoshop, Figma; basic knowledge of Typescript, design courses
 5. **Code examples:**
     ```javascript
         function sequence(n, pattern) {
